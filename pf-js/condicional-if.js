@@ -3,7 +3,8 @@
  * Serie de condicones para que algo suceda
  * 
  * En programacion para el amnejo de estas condiociones 
- * tenemos 
+ * tenemos:
+ * 
  * ! El bloque if-else
  * ? Bloque if pregunta por una condicion en caso de que esta condcion sea
  * ?verdadera ejecuta un bloque de codigo, en de falso no se ejecuta nada
@@ -101,6 +102,8 @@ const age = Number(currentYear);
  * Verdadero || Falso = Verdadero
  * Falso || Verdadero = Verdadero
  * Falso || Falso = Falso
+ * 
+ * 
     */
 if (age >= 18) {
     alert("Eres mayor de edad");
